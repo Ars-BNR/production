@@ -105,7 +105,8 @@
         "target": "chrome.docker",
         "preset": "iPhone 7"
       }
-    }
+    },
+    "reactUri": "file:./storybook-static"
   }
   
 }
